@@ -21,3 +21,28 @@ if __name__ == '__main__':
     g.join()
     # gevent.joinall([g,])
 
+
+
+# 添加了个新的业务处理函数
+def test():
+    print('哈哈哈')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

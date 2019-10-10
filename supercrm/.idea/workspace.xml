@@ -36,10 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sales/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="-414">
               <caret line="139" column="49" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
             </state>
           </provider>
@@ -84,8 +84,20 @@
       <file leaf-file-name="customer_tongji.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sales/templates/saleshtml/customer_tongji.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
+            <state relative-caret-position="439">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xx.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,9 +205,9 @@
         <option value="$PROJECT_DIR$/sales/admin.py" />
         <option value="$PROJECT_DIR$/sales/templates/saleshtml/customer_tongji.html" />
         <option value="$PROJECT_DIR$/sales/views/customer.py" />
-        <option value="$PROJECT_DIR$/xx.py" />
         <option value="$PROJECT_DIR$/sales/xxx.py" />
         <option value="$PROJECT_DIR$/rbac/xx.html" />
+        <option value="$PROJECT_DIR$/xx.py" />
       </list>
     </option>
   </component>
@@ -208,7 +220,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="59" />
     <option name="y" value="36" />
     <option name="width" value="1199" />
@@ -448,7 +460,8 @@
     <option name="totallyTimeSpent" value="12844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="36" width="1199" height="687" extended-state="1" />
+    <frame x="59" y="36" width="1199" height="687" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -777,20 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sales/templates/saleshtml/customer_tongji.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sales/xxx.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -824,8 +823,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sales/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="-414">
           <caret line="139" column="49" selection-start-line="139" selection-start-column="49" selection-end-line="139" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales/templates/saleshtml/customer_tongji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
