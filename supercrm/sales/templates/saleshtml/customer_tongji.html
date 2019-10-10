@@ -1,0 +1,77 @@
+{% extends 'starter.html' %}
+
+{% block title %}
+    <h1>
+        成单量统计
+    </h1>
+
+{% endblock %}
+
+{% block content %}
+    {{ s }}
+    <div>
+        <a href="?type=today" class="btn btn-default">今天</a>
+        <a href="?type=yesterday" class="btn btn-default">昨天</a>
+        <a href="?type=week" class="btn btn-default">最近一周</a>
+        <a href="?type=month" class="btn btn-default">最近一个月</a>
+
+    </div>
+    <hr>
+
+    <div>
+        <table class="table table-striped table-hover table-bordered">
+            <thead>
+            <tr>
+                <th>序号</th>
+                <th>id</th>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>客户来源</th>
+                <th>销售</th>
+                <th>所报班级</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            {% for customer_obj in customer_list %}
+                <tr>
+
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ customer_obj.pk }}</td>
+                    <td>{{ customer_obj.name }}</td>
+                    <td>{{ customer_obj.get_sex_display }}</td>
+                    <td>{{ customer_obj.get_source_display }}</td>
+                    <td>{{ customer_obj.consultant }}</td>
+                    <td>{{ customer_obj.get_classlist }}</td>
+
+                </tr>
+            {% endfor %}
+
+            </tbody>
+        </table>
+
+
+    </div>
+
+
+
+
+
+
+{% endblock %}
+
+{% block js %}
+
+    <script>
+    var a = '{{ s }}';
+    console.log(a[0])
+    </script>
+
+{% endblock %}
+
+
+
+
+
+
+
