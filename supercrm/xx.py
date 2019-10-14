@@ -28,7 +28,8 @@ def test():
     print('哈哈哈')
 
 
-
+def test2():
+    print(22222)
 
 
 
