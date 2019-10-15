@@ -31,9 +31,9 @@ def test():
 def test2():
     print(22222)
 
-
+# 解决的bug
 def test3():
-    print(33333)
+    print('v3')
 
 
 
