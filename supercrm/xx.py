@@ -38,6 +38,7 @@ def test3():
 
 def test4():
     print(44444)
+    print('v4')
 
 
 
