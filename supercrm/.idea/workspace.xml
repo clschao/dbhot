@@ -93,8 +93,13 @@
       <file leaf-file-name="xx.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xx.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="288">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
+=======
+            <state relative-caret-position="324">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+>>>>>>> dev
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -217,8 +222,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="119" />
-    <option name="y" value="70" />
+    <option name="x" value="198" />
+    <option name="y" value="29" />
     <option name="width" value="1199" />
     <option name="height" value="687" />
   </component>
@@ -477,7 +482,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.16856892" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.17120281" />
+>>>>>>> dev
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -843,8 +852,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xx.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="288">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
+=======
+        <state relative-caret-position="324">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+>>>>>>> dev
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

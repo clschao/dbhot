@@ -35,7 +35,9 @@ def test2():
 def test3():
     print('v3')
 
-
+def test4():
+    print(44444)
+    print('v4')
 
 
 
